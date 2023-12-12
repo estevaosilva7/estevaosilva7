@@ -2,18 +2,20 @@
 ### こんにちは 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estevaosilva7&label=Profile%20views&color=0e75b6&style=flat" alt="estevaosilva7" /> </p>
 
-<h1 align="center">Bem-vindo ao meu perfil no GitHub:octocat:</h1>
+<h1 align="center">Bem-vindo ao meu perfil no GitHub
+  </h1>
 <h3 align="center">Meu nome é Estevão e aqui vou documentar meu aprendizado :100: </h3>
 <br>
 
 
 <div>
 <p align="justify">
-Sou estudante de programação ou qualquer tipo de tecnologia que posso agregar na construção da minha carreira profissional.
+Olá, meu nome é Estevão e sou estudante de TI ou qualquer tipo de tecnologia que posso agregar na construção da minha carreira profissional.
 
-Sou entusiasta da cultura DevOps e focado em tecnologias relacionadas ao desenvolvimento como ReactJs, JavaScript, Hmtl, CSS, APIs e versionamento no GIT e repositórios no GitHub, também tenho contato com Python, Java, SQL Server, MySQL, Linux e noções de Cloud e Infraestrutura por conta da minha graduação em Análise e Desenvolvimento de Sistemas pelo IFS.
+Sou entusiasta da cultura DevOps e atualmente estou focando em C# através da plataforma Microsoft Learn, já possuo contato com tecnologias relacionadas ao desenvolvimento e análise como React, Vue, JavaScript, Bootstrap, HTML, CSS, APIs e versionamento no GIT e repositórios no GitHub, também tenho contato com Python, Java, SQL Server, MySQL, Windows, Linux e noções de Cloud, Redes(CISCO) além de Infraestrutura por conta da minha graduação em Análise e Desenvolvimento de Sistemas pelo IFS.
 
-Também possuo conhecimentos práticos em Pacote Office, Google Workspace e Canva por conta de demandas diárias.
+Também possuo conhecimentos práticos em Pacote Office, Microsoft Power BI, Google Workspace, Canva, Kanban e Hardwares por conta de demandas diárias.
+
 </p>
 </div>
 
