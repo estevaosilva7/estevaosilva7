@@ -10,7 +10,7 @@
 
 <div>
 <p align="justify">
-Olá, meu nome é Estevão e sou estudante de TI ou qualquer tipo de tecnologia que posso agregar na construção da minha carreira profissional.
+Olá, sou estudante de TI ou qualquer tipo de tecnologia que posso agregar na construção da minha carreira profissional.
 
 Sou entusiasta da cultura DevOps e atualmente estou focando em C# através da plataforma Microsoft Learn, já possuo contato com tecnologias relacionadas ao desenvolvimento e análise como React, Vue, JavaScript, Bootstrap, HTML, CSS, APIs e versionamento no GIT e repositórios no GitHub, também tenho contato com Python, Java, SQL Server, MySQL, Windows, Linux e noções de Cloud, Redes(CISCO) além de Infraestrutura por conta da minha graduação em Análise e Desenvolvimento de Sistemas pelo IFS.
 
