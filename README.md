@@ -14,23 +14,24 @@ Sou estudante de TI ou qualquer tipo de tecnologia que posso agregar na constru�
 
 Sou entusiasta da cultura DevOps e atualmente estou focando em C# através da plataforma Microsoft Learn, também sigo me aperfeiçoando por meio da minha graduação em Análise e Desenvolvimento de Sistemas pelo IFS e projetos pessoais.
 
-Technical Skills:
-• C#
-• Python
-• Java
-• Programação Orientada a Objetos (POO)
-• JavaScript / Html / CSS
-• React / Vue / Node.js
-• Bootstrap / Styled Components / Media Query
-• API Restfull / Rest / JSON
-• NPM / Yarn
-• GIT / GitHub
-• SQL Server / MySQL 
-• Microsoft Power BI
-• Kanban / Scrum
-• Linux / Windows
-• Redes CISCO
-• Pacote Office / Google Workspace
+**Technical Skills:**
+- C#
+- Python
+- Java
+- Programação Orientada a Objetos (POO)
+- JavaScript / Html / CSS
+- React / Vue / Node.js
+- Bootstrap / Styled Components / Media Query
+- API Restful / Rest / JSON
+- NPM / Yarn
+- GIT / GitHub
+- SQL Server / MySQL 
+- Microsoft Power BI
+- Kanban / Scrum
+- Linux / Windows
+- Redes CISCO
+- Pacote Office / Google Workspace
+
 </p>
 </div>
 
