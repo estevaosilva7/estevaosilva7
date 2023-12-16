@@ -10,12 +10,27 @@
 
 <div>
 <p align="justify">
-Olá, sou estudante de TI ou qualquer tipo de tecnologia que posso agregar na construção da minha carreira profissional.
+Sou estudante de TI ou qualquer tipo de tecnologia que posso agregar na construção da minha carreira profissional.
 
-Sou entusiasta da cultura DevOps e atualmente estou focando em C# através da plataforma Microsoft Learn, já possuo contato com tecnologias relacionadas ao desenvolvimento e análise como React, Vue, JavaScript, Bootstrap, HTML, CSS, APIs e versionamento no GIT e repositórios no GitHub, também tenho contato com Python, Java, SQL Server, MySQL, Windows, Linux e noções de Cloud, Redes(CISCO) além de Infraestrutura por conta da minha graduação em Análise e Desenvolvimento de Sistemas pelo IFS.
+Sou entusiasta da cultura DevOps e atualmente estou focando em C# através da plataforma Microsoft Learn, também sigo me aperfeiçoando por meio da minha graduação em Análise e Desenvolvimento de Sistemas pelo IFS e projetos pessoais.
 
-Também possuo conhecimentos práticos em Pacote Office, Microsoft Power BI, Google Workspace, Canva, Kanban e Hardwares por conta de demandas diárias.
-
+Technical Skills:
+• C#
+• Python
+• Java
+• Programação Orientada a Objetos (POO)
+• JavaScript / Html / CSS
+• React / Vue / Node.js
+• Bootstrap / Styled Components / Media Query
+• API Restfull / Rest / JSON
+• NPM / Yarn
+• GIT / GitHub
+• SQL Server / MySQL 
+• Microsoft Power BI
+• Kanban / Scrum
+• Linux / Windows
+• Redes CISCO
+• Pacote Office / Google Workspace
 </p>
 </div>
 
