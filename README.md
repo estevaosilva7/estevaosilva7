@@ -14,7 +14,6 @@ Olá, meu nome é Estevão e sou estudante e profissional de TI ou qualquer tipo
 
 Sou entusiasta da cultura DevOps e certificado Azure e estou atualmente focado no aprendizado em C#, .NET, SQLServer e Cloud através da plataforma Microsoft Learn, também sigo me aperfeiçoando por meio da minha graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Sergipe e projetos pessoais.
 
-Atualmente atuo no cliente pela TIVIT como pessoa técnica em suporte, sendo responsável por demandas Field e Service desk, segurança, ativos e serviços em tecnologia da informação a partir da regra de negócio presente.
 
 Tools & Technologies: 
 • C#
