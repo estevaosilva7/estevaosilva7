@@ -10,17 +10,23 @@
 
 <div>
 <p align="justify">
-Olá, meu nome é Estevão e sou estudante e profissional de TI ou qualquer tipo de tecnologia que possa agregar na construção da minha carreira profissional. 
+Olá, meu nome é Estevão e sou profissional de Tecnologia da Informação, com atuação em implantação e suporte a sistemas ERP e desenvolvimento Full Stack. Tenho experiência prática com TOTVS Protheus, TOTVS RM, Engeman (manutenção industrial), migração de relatórios com Crystal Reports e desenvolvimento Backend.
 
-Sou entusiasta da cultura DevOps e certificado Azure, estou atualmente focado no desenvolvimento Full Stack, também sigo me aperfeiçoando por meio da minha graduação em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Educação, Ciência e Tecnologia de Sergipe e projetos pessoais.
+Sou certificado Microsoft Azure e entusiasta da cultura DevOps, com forte participação em projetos de melhoria de processos (BPMN), conformidade com a LGPD, padronizações ISO e integração entre áreas técnicas e de negócio.
+
+Atuo com banco de dado SQL Server, além de ferramentas de automação e produtividade como Copilot e ChatGPT. Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe, e sigo em constante evolução por meio de projetos próprios e aprendizado contínuo.
 
 ## Tools & Technologies: 
-- C# / .NET / Python / Java / JavaScript / TypeScript / PHP /Html / CSS 
-- React / Vue / Node.js / Bootstrap / JQuery / Styled Components / Media Query 
-- API Restfull / Rest / Xdebug / JSON / GIT / GitHub 
-- SQL Server / MySQL / Microsoft Power BI / Microsoft Project 
-- Azure / Docker / Windows / Linux / Redes CISCO 
-- Pacote Office / Google Workspace / LibreOffice
+- ERP: TOTVS Protheus, TOTVS RM
+- Linguagens: C#, .NET, Python, Java, JavaScript, TypeScript, PHP, Html, CSS 
+- Frameworks: React, Vue, Node.js, Bootstrap, JQuery, Styled Components, Media Query 
+- Integrações: API Restfull, Rest, Xdebug, JSON, GIT, GitHub 
+- Bancos de Dados: SQL Server / MySQL 
+- Relatórios: Crystal Reports, Power BI
+- Cloud & DevOps: Azure, AWS, GCP, Docker, Windows, Linux(Debian, Fedora), Redes CISCO
+- Pacotes de Escritório: Office 365, Google Workspace, LibreOffice
+- Governança e Processos: LGPD, ISO, Conformidade, BPMN
+- IA e Produtividade: Copilot, ChatGPT
 
 </p>
 </div>
